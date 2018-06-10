@@ -8,5 +8,6 @@ public class ClouddemoApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(ClouddemoApplication.class, args);
+        System.out.println("try");
     }
 }
